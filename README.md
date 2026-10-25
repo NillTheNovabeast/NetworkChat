@@ -1,7 +1,7 @@
 # NetworkChat
 This is a chat for opencomputers
 
-Error installing chat.lua:
+Error installing file: [path]/chat.lua:
 Try creating the destination directroy
 
 
