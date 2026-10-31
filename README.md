@@ -6,5 +6,5 @@ Try creating the destination directroy
 
 
 ```
-wget -f https://raw.githubusercontent.com/NillTheNovabeast/NetworkChat/main/NetworkChatInstaller.lua /tmp/ChatInst.lua && /tmp/ChatInst.lua
+wget -f https://raw.githubusercontent.com/NillTheDragon/NetworkChat/main/NetworkChatInstaller.lua /tmp/ChatInst.lua && /tmp/ChatInst.lua
 ```
